@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 This is master branch.
 =======
 
+test stash
